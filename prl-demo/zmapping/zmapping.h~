@@ -1,0 +1,17 @@
+#ifndef ZMAPPING_H
+#define ZMAPPING__H
+
+#include "Eigen/Eigen" 
+
+class zmap
+{
+    int x;
+    int y;
+    int z;
+
+public:
+    zmap(int x, int y);
+    int getSum();
+};
+
+#endif

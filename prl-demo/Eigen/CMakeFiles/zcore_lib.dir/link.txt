@@ -1,0 +1,2 @@
+/usr/bin/ar cr libzcore_lib.a  CMakeFiles/zcore_lib.dir/zgaussian.cc.o
+/usr/bin/ranlib libzcore_lib.a

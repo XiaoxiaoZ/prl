@@ -1,0 +1,2 @@
+/usr/bin/ar cr libzmapping_lib.a  CMakeFiles/zmapping_lib.dir/zmapping.cc.o
+/usr/bin/ranlib libzmapping_lib.a

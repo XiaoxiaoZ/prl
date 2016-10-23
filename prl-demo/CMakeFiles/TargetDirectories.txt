@@ -1,0 +1,3 @@
+/home/xiaoxiao/Dropbox/prl-demo/CMakeFiles/Demo.dir
+/home/xiaoxiao/Dropbox/prl-demo/zcore/CMakeFiles/zcore_lib.dir
+/home/xiaoxiao/Dropbox/prl-demo/zmapping/CMakeFiles/zmapping_lib.dir
